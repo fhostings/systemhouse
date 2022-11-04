@@ -120,8 +120,9 @@
                     },
                     ["Player"] = {
                         ["Primeira vez"] = {
+                            --Mandar infobox que nenhuma senha foi definida ainda, portanto não é possível abrir
                         },
-                        ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etyc
+                        ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etc (Abrir estilo bau)
                             "Digitar senha do cofre",
                         },
                     },
