@@ -25,8 +25,8 @@
                         "Entrar", (GOLF ✔️)
                         "Editar", (GOLF ✔️)
                         "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
-                        "Bater na porta",
-                        "Tocar campainha",
+                        "Bater na porta", (GOLF ✔️)
+                        "Tocar campainha", (GOLF ✔️)
                     },
                     ["Sem ser dono da casa"] = {
                         "Deletar casa", (GOLF ✔️)
@@ -73,34 +73,34 @@
         ["Dentro da casa"] = {
             ["Player"] = {
                 ["Dono da casa"] = {
-                    "Sair",
-                    "Editar",
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada
-                    "Bater na porta",
-                    "Autorizar amigo entrar na casa",
+                    "Sair", (GOLF ✔️)
+                    "Editar", (GOLF ✔️)
+                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
+                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF ✔️)
+                    "Bater na porta", (GOLF ✔️)
+                    "Autorizar amigo entrar na casa", (GOLF ✔️)
                 },
                 ["Sem ser dono da casa"] = {
-                    "Bater na porta",
-                    "Sair",
+                    "Bater na porta", (GOLF ✔️)
+                    "Sair", (GOLF ✔️)
                 },
                 ["Ao clicar na TV"] = {
-                    "Colocar um filme pré definido",
-                    "Dar play no filme",
-                    "Desligar TV", --Aparecer só caso esteja tendo algo na TV
-                    "Fechar menu",
-                    "Botão para acessar youtube",
+                    "Colocar um filme pré definido", (GOLF ✔️)
+                    "Dar play no filme", (GOLF ✔️)
+                    "Desligar TV", --Aparecer só caso esteja tendo algo na TV (GOLF ✔️)
+                    "Fechar menu", (GOLF ✔️)
+                    "Botão para acessar youtube", (GOLF ✔️)
                     ["Aba do youtube"] = {
-                        "Reproduzir na TV",
-                        "Fechar",
+                        "Reproduzir na TV", (GOLF ✔️)
+                        "Fechar", (GOLF ✔️)
                     },
                 },
                 ["Ao clicar no rádio"] = {
-                    "Colocar uma música pré definida",
-                    "Dar play na música",
-                    "Desligar Rádio", --Aparecer só caso esteja tendo algo no rádio
-                    "Fechar menu",
-                    "Botão para pesquisar música",
+                    "Colocar uma música pré definida", (GOLF ✔️) (Falta o menu)
+                    "Dar play na música", (GOLF ✔️)
+                    "Desligar Rádio", --Aparecer só caso esteja tendo algo no rádio (GOLF ✔️)
+                    "Fechar menu", (GOLF ✔️)
+                    "Botão para pesquisar música", (GOLF ✔️)
                     ["Aba de pesquisar música"] = {
                         "Listagem de músicas",
                         "Pesquisas de músicas",
@@ -111,11 +111,11 @@
                 ["Ao clicar no cofre"] = {
                     ["Dono da casa"] = {
                         ["Primeira vez"] = {
-                            "Digitar uma senha no cofre para deixar salvo",
+                            "Digitar uma senha no cofre para deixar salvo", (GOLF ✔️)
                         },
                         ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etyc
-                            "Digitar senha do cofre",
-                            "Alterar senha do cofre",
+                            "Digitar senha do cofre", (GOLF ✔️)
+                            "Alterar senha do cofre", (GOLF ✔️)
                         },
                     },
                     ["Player"] = {
@@ -123,40 +123,40 @@
                             --Mandar infobox que nenhuma senha foi definida ainda, portanto não é possível abrir
                         },
                         ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etc (Abrir estilo bau)
-                            "Digitar senha do cofre",
+                            "Digitar senha do cofre", (GOLF ✔️)
                         },
                     },
                 },
                 ["Ao clicar na cama"] = {
                     ["Dono da casa"] = {
-                        "Deitar na cama",
-                        "Dormir",
-                        "Fazer sexo",
+                        "Deitar na cama", (GOLF ✔️) (GOLF ✔️)
+                        "Dormir", (GOLF ✔️)
+                        "Fazer sexo", (GOLF ✔️)
                         ["Aba de fazer sexo"] = {
-                            "Um lugar para ele inserir a pessoa para fazer sexo",
+                            "Um lugar para ele inserir a pessoa para fazer sexo", (GOLF ✔️)
                         },
                     },
                 },
             },
             ["Admin"] = {
                 ["Dono da casa"] = {
-                    "Deletar casa",
-                    "Ver ID",
-                    "Duplicar interior",
-                    "Resetar interior",
-                    "Sair",
-                    "Editar",
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada
-                    "Bater na porta",
+                    "Deletar casa", (GOLF ✔️)
+                    "Ver ID", (GOLF ✔️)
+                    "Duplicar interior", (GOLF ✔️)
+                    "Resetar interior", (GOLF ✔️)
+                    "Sair", (GOLF ✔️)
+                    "Editar", (GOLF ✔️)
+                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
+                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF ✔️)
+                    "Bater na porta", (GOLF ✔️)
                 },
                 ["Sem ser dono da casa"] = {
-                    "Deletar casa",
-                    "Ver ID",
-                    "Duplicar interior",
-                    "Resetar interior",
-                    "Bater na porta",
-                    "Sair",
+                    "Deletar casa", (GOLF ✔️)
+                    "Ver ID", (GOLF ✔️)
+                    "Duplicar interior", (GOLF ✔️)
+                    "Resetar interior", (GOLF ✔️)
+                    "Bater na porta", (GOLF ✔️)
+                    "Sair", (GOLF ✔️)
                 },
             },
         },
