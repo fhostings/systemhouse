@@ -4,68 +4,68 @@
             ["Já vendida"] = {
                 ["Player"] = {
                     ["Dono da casa"] = {
-                        "Entrar", (GOLF ✔️)
+                        "Entrar", (GOLF/JOAO ✔️)
                         "Editar", (GOLF ✔️)
-                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
-                        "Bater na porta", (GOLF ✔️)
-                        "Tocar campainha", (GOLF ✔️)
+                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
+                        "Bater na porta", (GOLF/JOAO ✔️)
+                        "Tocar campainha", (GOLF/JOAO ✔️)
                     },
                     ["Sem ser dono da casa"] = {
-                        "Bater na porta", (GOLF ✔️)
-                        "Entrar", (GOLF ✔️)
-                        "Tocar campainha", (GOLF ✔️)
+                        "Bater na porta", (GOLF/JOAO ✔️)
+                        "Entrar", (GOLF/JOAO ✔️)
+                        "Tocar campainha", (GOLF/JOAO ✔️)
                     },
                 },
                 ["Admin"] = {
                     ["Dono da casa"] = {
-                        "Deletar casa", (GOLF ✔️)
-                        "Ver ID", (GOLF ✔️)
+                        "Deletar casa", (GOLF/JOAO ✔️)
+                        "Ver ID", (GOLF/JOAO ✔️)
                         "Duplicar interior", (GOLF ✔️)
-                        "Resetar interior", (GOLF ✔️)
-                        "Entrar", (GOLF ✔️)
+                        "Resetar interior", (GOLF/JOAO ✔️)
+                        "Entrar", (GOLF/JOAO ✔️)
                         "Editar", (GOLF ✔️)
-                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
-                        "Bater na porta", (GOLF ✔️)
-                        "Tocar campainha", (GOLF ✔️)
+                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
+                        "Bater na porta", (GOLF/JOAO ✔️)
+                        "Tocar campainha", (GOLF/JOAO ✔️)
                     },
                     ["Sem ser dono da casa"] = {
-                        "Deletar casa", (GOLF ✔️)
-                        "Ver ID", (GOLF ✔️)
+                        "Deletar casa", (GOLF/JOAO ✔️)
+                        "Ver ID", (GOLF/JOAO ✔️)
                         "Duplicar interior", (GOLF ✔️)
-                        "Resetar interior", (GOLF ✔️)
-                        "Bater na porta", (GOLF ✔️)
-                        "Entrar", (GOLF ✔️)
-                        "Tocar campainha", (GOLF ✔️)
+                        "Resetar interior", (GOLF/JOAO ✔️)
+                        "Bater na porta", (GOLF/JOAO ✔️)
+                        "Entrar", (GOLF/JOAO ✔️)
+                        "Tocar campainha", (GOLF/JOAO ✔️)
                     },
                 },
             },
             ["Não vendida"] = {
                 ["Player"] = {
-                    "Comprar casa", (GOLF ✔️)
+                    "Comprar casa", (GOLF/JOAO ✔️)
                     ["Ao clicar no botão de comprar"] = {
-                        "Comprar com moeda especial", (GOLF ✔️)
-                        "Dinheiro da mão", (GOLF ✔️)
-                        "Dinheiro do banco" (GOLF ✔️)
+                        "Comprar com moeda especial", (GOLF/JOAO ✔️)
+                        "Dinheiro da mão", (GOLF/JOAO ✔️)
+                        "Dinheiro do banco" (GOLF/JOAO ✔️)
                     },
                     ["Informações da casa"] = {
-                        "Tamanho", (GOLF ✔️)
-                        "Nome da casa", (GOLF ✔️)
-                        "ID da casa" (GOLF ✔️)
+                        "Tamanho", (GOLF/JOAO ✔️)
+                        "Nome da casa", (GOLF/JOAO ✔️)
+                        "ID da casa" (GOLF/JOAO ✔️)
                     },
                 },
                 ["Admin"] = {
-                    "Deletar casa", (GOLF ✔️)
-                    "Ver ID", (GOLF ✔️)
-                    "Comprar casa", (GOLF ✔️)
+                    "Deletar casa", (GOLF/JOAO ✔️)
+                    "Ver ID", (GOLF/JOAO ✔️)
+                    "Comprar casa", (GOLF/JOAO ✔️)
                     ["Ao clicar no botão de comprar"] = {
-                        "Comprar com moeda especial", (GOLF ✔️)
-                        "Dinheiro da mão", (GOLF ✔️)
-                        "Dinheiro do banco" (GOLF ✔️)
+                        "Comprar com moeda especial", (GOLF/JOAO ✔️)
+                        "Dinheiro da mão", (GOLF/JOAO ✔️)
+                        "Dinheiro do banco" (GOLF/JOAO ✔️)
                     },
                     ["Informações da casa"] = {
-                        "Tamanho", (GOLF ✔️)
-                        "Nome da casa", (GOLF ✔️)
-                        "ID da casa" (GOLF ✔️)
+                        "Tamanho", (GOLF/JOAO ✔️)
+                        "Nome da casa", (GOLF/JOAO ✔️)
+                        "ID da casa" (GOLF/JOAO ✔️)
                     },
                 },
             },
@@ -73,16 +73,16 @@
         ["Dentro da casa"] = {
             ["Player"] = {
                 ["Dono da casa"] = {
-                    "Sair", (GOLF ✔️)
+                    "Sair", (GOLF/JOAO ✔️)
                     "Editar", (GOLF ✔️)
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF ✔️)
-                    "Bater na porta", (GOLF ✔️)
-                    "Autorizar amigo entrar na casa", (GOLF ✔️)
+                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
+                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF /JOAO✔️)
+                    "Bater na porta", (GOLF/JOAO ✔️)
+                    "Autorizar amigo entrar na casa", (GOLF/JOAO ✔️)
                 },
                 ["Sem ser dono da casa"] = {
-                    "Bater na porta", (GOLF ✔️)
-                    "Sair", (GOLF ✔️)
+                    "Bater na porta", (GOLF/JOAO ✔️)
+                    "Sair", (GOLF/JOAO ✔️)
                 },
                 ["Ao clicar na TV"] = {
                     "Colocar um filme pré definido", (GOLF ✔️)
@@ -140,23 +140,23 @@
             },
             ["Admin"] = {
                 ["Dono da casa"] = {
-                    "Deletar casa", (GOLF ✔️)
-                    "Ver ID", (GOLF ✔️)
+                    "Deletar casa", (GOLF/JOAO ✔️)
+                    "Ver ID", (GOLF/JOAO ✔️)
                     "Duplicar interior", (GOLF ✔️)
-                    "Resetar interior", (GOLF ✔️)
-                    "Sair", (GOLF ✔️)
+                    "Resetar interior", (GOLF/JOAO ✔️)
+                    "Sair", (GOLF/JOAO ✔️)
                     "Editar", (GOLF ✔️)
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF ✔️)
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF ✔️)
-                    "Bater na porta", (GOLF ✔️)
+                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
+                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF/JOAO ✔️)
+                    "Bater na porta", (GOLF/JOAO ✔️)
                 },
                 ["Sem ser dono da casa"] = {
-                    "Deletar casa", (GOLF ✔️)
-                    "Ver ID", (GOLF ✔️)
+                    "Deletar casa", (GOLF/JOAO ✔️)
+                    "Ver ID", (GOLF/JOAO ✔️)
                     "Duplicar interior", (GOLF ✔️)
                     "Resetar interior", (GOLF ✔️)
-                    "Bater na porta", (GOLF ✔️)
-                    "Sair", (GOLF ✔️)
+                    "Bater na porta", (GOLF/JOAO ✔️)
+                    "Sair", (GOLF/JOAO ✔️)
                 },
             },
         },
