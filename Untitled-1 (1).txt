@@ -195,20 +195,20 @@
     ["Modo edição"] = {
         ["Inicial"] = {
             "Introdução", -- Quando for a primeira vez, ter introdução de como mexer etc... Um tutorial em escrito.
-            ["Botões no centro da tela, superior"] = { --Os botões pode ser introduzidos com ícones
-                "Ativar/desativar grade",
-                "Acender/apagar luz",
-                "Testar interior",
-                "Ativar/desativar música",
-                "Ativar/desativar sons",
-                "Salvar interior",
-                "Sair sem salvar",
+            ["Botões no centro da tela, superior"] = { --Os botões pode ser introduzidos com ícones✔️
+                "Ativar/desativar grade",✔️
+                "Acender/apagar luz",✔️
+                "Testar interior",✔️
+                "Ativar/desativar música",✔️
+                "Ativar/desativar sons",✔️
+                "Salvar interior",✔️
+                "Sair sem salvar",✔️
             },
             ["Modo teste"] = {
-                "Voltar no modo edição",
-                "Acender/apagar a luz",
+                "Voltar no modo edição",✔️
+                "Acender/apagar a luz",✔️
             }
-            "Botões para acessar aba dos comodoes e etc",
+            "Botões para acessar aba dos comodoes e etc",✔️
             ["Mini hud"] = {
                 "Saldo da mão",
                 "Saldo do banco",
