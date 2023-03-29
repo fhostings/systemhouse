@@ -4,68 +4,68 @@
             ["Já vendida"] = {
                 ["Player"] = {
                     ["Dono da casa"] = {
-                        "Entrar", (GOLF/JOAO ✔️)
-                        "Editar", (GOLF ✔️)
-                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
-                        "Bater na porta", (GOLF/JOAO ✔️)
-                        "Tocar campainha", (GOLF/JOAO ✔️)
+                        "Entrar", ✔️
+                        "Editar", ✔️
+                        "Trancar/destrancar", ✔️
+                        "Bater na porta", ✔️
+                        "Tocar campainha", ✔️
                     },
                     ["Sem ser dono da casa"] = {
-                        "Bater na porta", (GOLF/JOAO ✔️)
-                        "Entrar", (GOLF/JOAO ✔️)
-                        "Tocar campainha", (GOLF/JOAO ✔️)
+                        "Bater na porta", ✔️
+                        "Entrar", ✔️
+                        "Tocar campainha", ✔️
                     },
                 },
                 ["Admin"] = {
                     ["Dono da casa"] = {
-                        "Deletar casa", (GOLF/JOAO ✔️)
-                        "Ver ID", (GOLF/JOAO ✔️)
-                        "Duplicar interior", (GOLF ✔️)
-                        "Resetar interior", (GOLF/JOAO ✔️)
-                        "Entrar", (GOLF/JOAO ✔️)
-                        "Editar", (GOLF ✔️)
-                        "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
-                        "Bater na porta", (GOLF/JOAO ✔️)
-                        "Tocar campainha", (GOLF/JOAO ✔️)
+                        "Deletar casa", ✔️
+                        "Ver ID", ✔️
+                        "Duplicar interior", ✔️
+                        "Resetar interior", ✔️
+                        "Entrar", ✔️
+                        "Editar", ✔️
+                        "Trancar/destrancar", ✔️
+                        "Bater na porta", ✔️
+                        "Tocar campainha", ✔️
                     },
                     ["Sem ser dono da casa"] = {
-                        "Deletar casa", (GOLF/JOAO ✔️)
-                        "Ver ID", (GOLF/JOAO ✔️)
-                        "Duplicar interior", (GOLF ✔️)
-                        "Resetar interior", (GOLF/JOAO ✔️)
-                        "Bater na porta", (GOLF/JOAO ✔️)
-                        "Entrar", (GOLF/JOAO ✔️)
-                        "Tocar campainha", (GOLF/JOAO ✔️)
+                        "Deletar casa", ✔️
+                        "Ver ID", ✔️
+                        "Duplicar interior", ✔️
+                        "Resetar interior", ✔️
+                        "Bater na porta", ✔️
+                        "Entrar", ✔️
+                        "Tocar campainha", ✔️
                     },
                 },
             },
             ["Não vendida"] = {
                 ["Player"] = {
-                    "Comprar casa", (GOLF/JOAO ✔️)
+                    "Comprar casa", ✔️
                     ["Ao clicar no botão de comprar"] = {
-                        "Comprar com moeda especial", (GOLF/JOAO ✔️)
-                        "Dinheiro da mão", (GOLF/JOAO ✔️)
-                        "Dinheiro do banco" (GOLF/JOAO ✔️)
+                        "Comprar com moeda especial", ✔️
+                        "Dinheiro da mão", ✔️
+                        "Dinheiro do banco" ✔️
                     },
                     ["Informações da casa"] = {
-                        "Tamanho", (GOLF/JOAO ✔️)
-                        "Nome da casa", (GOLF/JOAO ✔️)
-                        "ID da casa" (GOLF/JOAO ✔️)
+                        "Tamanho", ✔️
+                        "Nome da casa", ✔️
+                        "ID da casa" ✔️
                     },
                 },
                 ["Admin"] = {
-                    "Deletar casa", (GOLF/JOAO ✔️)
-                    "Ver ID", (GOLF/JOAO ✔️)
-                    "Comprar casa", (GOLF/JOAO ✔️)
+                    "Deletar casa", ✔️
+                    "Ver ID", ✔️
+                    "Comprar casa", ✔️
                     ["Ao clicar no botão de comprar"] = {
-                        "Comprar com moeda especial", (GOLF/JOAO ✔️)
-                        "Dinheiro da mão", (GOLF/JOAO ✔️)
-                        "Dinheiro do banco" (GOLF/JOAO ✔️)
+                        "Comprar com moeda especial", ✔️
+                        "Dinheiro da mão", ✔️
+                        "Dinheiro do banco" ✔️
                     },
                     ["Informações da casa"] = {
-                        "Tamanho", (GOLF/JOAO ✔️)
-                        "Nome da casa", (GOLF/JOAO ✔️)
-                        "ID da casa" (GOLF/JOAO ✔️)
+                        "Tamanho", ✔️
+                        "Nome da casa", ✔️
+                        "ID da casa" ✔️
                     },
                 },
             },
@@ -73,34 +73,34 @@
         ["Dentro da casa"] = {
             ["Player"] = {
                 ["Dono da casa"] = {
-                    "Sair", (GOLF/JOAO ✔️)
-                    "Editar", (GOLF ✔️)
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF /JOAO✔️)
-                    "Bater na porta", (GOLF/JOAO ✔️)
-                    "Autorizar amigo entrar na casa", (GOLF/JOAO ✔️)
+                    "Sair", ✔️
+                    "Editar", ✔️
+                    "Trancar/destrancar", ✔️
+                    "Acender a luz/apagar", ✔️
+                    "Bater na porta", ✔️
+                    "Autorizar amigo entrar na casa", ✔️
                 },
                 ["Sem ser dono da casa"] = {
-                    "Bater na porta", (GOLF/JOAO ✔️)
-                    "Sair", (GOLF/JOAO ✔️)
+                    "Bater na porta", ✔️
+                    "Sair", ✔️
                 },
                 ["Ao clicar na TV"] = {
-                    "Colocar um filme pré definido", (GOLF ✔️)
-                    "Dar play no filme", (GOLF ✔️)
-                    "Desligar TV", --Aparecer só caso esteja tendo algo na TV (GOLF ✔️)
-                    "Fechar menu", (GOLF ✔️)
-                    "Botão para acessar youtube", (GOLF ✔️)
+                    "Colocar um filme pré definido", ✔️
+                    "Dar play no filme", ✔️
+                    "Desligar TV", ✔️
+                    "Fechar menu", ✔️
+                    "Botão para acessar youtube", ✔️
                     ["Aba do youtube"] = {
-                        "Reproduzir na TV", (GOLF ✔️)
-                        "Fechar", (GOLF ✔️)
+                        "Reproduzir na TV", ✔️
+                        "Fechar", ✔️
                     },
                 },
                 ["Ao clicar no rádio"] = {
-                    "Colocar uma música pré definida", (GOLF ✔️) (Falta o menu)
-                    "Dar play na música", (GOLF ✔️)
-                    "Desligar Rádio", --Aparecer só caso esteja tendo algo no rádio (GOLF ✔️)
-                    "Fechar menu", (GOLF ✔️)
-                    "Botão para pesquisar música", (GOLF ✔️)
+                    "Colocar uma música pré definida", ✔️ (Falta o menu)
+                    "Dar play na música", ✔️
+                    "Desligar Rádio", ✔️
+                    "Fechar menu", ✔️
+                    "Botão para pesquisar música", ✔️
                     ["Aba de pesquisar música"] = {
                         "Listagem de músicas",
                         "Pesquisas de músicas",
@@ -111,11 +111,11 @@
                 ["Ao clicar no cofre"] = {
                     ["Dono da casa"] = {
                         ["Primeira vez"] = {
-                            "Digitar uma senha no cofre para deixar salvo", (GOLF ✔️)
+                            "Digitar uma senha no cofre para deixar salvo", ✔️
                         },
-                        ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etyc
-                            "Digitar senha do cofre", (GOLF ✔️)
-                            "Alterar senha do cofre", (GOLF ✔️)
+                        ["Outras vezes"] = {
+                            "Digitar senha do cofre", ✔️
+                            "Alterar senha do cofre", ✔️
                         },
                     },
                     ["Player"] = {
@@ -123,46 +123,46 @@
                             --Mandar infobox que nenhuma senha foi definida ainda, portanto não é possível abrir
                         },
                         ["Outras vezes"] = { --Abrir o cofre e mostrar os itens dentro e etc (Abrir estilo bau)
-                            "Digitar senha do cofre", (GOLF ✔️)
+                            "Digitar senha do cofre", ✔️
                         },
                     },
                 },
                 ["Ao clicar na cama"] = {
                     ["Dono da casa"] = {
-                        "Deitar na cama", (GOLF ✔️) (GOLF ✔️)
-                        "Dormir", (GOLF ✔️)
-                        "Fazer sexo", (GOLF ✔️)
+                        "Deitar na cama", ✔️ ✔️
+                        "Dormir", ✔️
+                        "Fazer sexo", ✔️
                         ["Aba de fazer sexo"] = {
-                            "Um lugar para ele inserir a pessoa para fazer sexo", (GOLF ✔️)
+                            "Um lugar para ele inserir a pessoa para fazer sexo", ✔️
                         },
                     },
                 },
             },
             ["Admin"] = {
                 ["Dono da casa"] = {
-                    "Deletar casa", (GOLF/JOAO ✔️)
-                    "Ver ID", (GOLF/JOAO ✔️)
-                    "Duplicar interior", (GOLF ✔️)
-                    "Resetar interior", (GOLF/JOAO ✔️)
-                    "Sair", (GOLF/JOAO ✔️)
-                    "Editar", (GOLF ✔️)
-                    "Trancar/destrancar", --Caso o ela estiver trancada vai aparecer destrancar etc e mudar o icone qnd ela tiver trancada/destrancada (GOLF/JOAO ✔️)
-                    "Acender a luz/apagar", --Caso ela esteja com a luz acesa ter a opção para apagar e mudar o icone qnd ela estiver acesa/apagada (GOLF/JOAO ✔️)
-                    "Bater na porta", (GOLF/JOAO ✔️)
+                    "Deletar casa", ✔️
+                    "Ver ID", ✔️
+                    "Duplicar interior", ✔️
+                    "Resetar interior", ✔️
+                    "Sair", ✔️
+                    "Editar", ✔️
+                    "Trancar/destrancar", ✔️
+                    "Acender a luz/apagar", ✔️
+                    "Bater na porta", ✔️
                 },
                 ["Sem ser dono da casa"] = {
-                    "Deletar casa", (GOLF/JOAO ✔️)
-                    "Ver ID", (GOLF/JOAO ✔️)
-                    "Duplicar interior", (GOLF ✔️)
-                    "Resetar interior", (GOLF ✔️)
-                    "Bater na porta", (GOLF/JOAO ✔️)
-                    "Sair", (GOLF/JOAO ✔️)
+                    "Deletar casa", ✔️
+                    "Ver ID", ✔️
+                    "Duplicar interior", ✔️
+                    "Resetar interior", ✔️
+                    "Bater na porta", ✔️
+                    "Sair", ✔️
                 },
             },
         },
         ["Dentro da casa, porta dos comodos"] = {
             ["Dono da casa"] = {
-                "Trancar porta",
+                "Trancar porta",✔️
             },
             ["Sem ser dono da casa"] = {
             },
@@ -194,8 +194,8 @@
     },
     ["Modo edição"] = {
         ["Inicial"] = {
-            "Introdução", -- Quando for a primeira vez, ter introdução de como mexer etc... Um tutorial em escrito.
-            ["Botões no centro da tela, superior"] = { --Os botões pode ser introduzidos com ícones✔️
+            "Introdução",
+            ["Botões no centro da tela, superior"] = {
                 "Ativar/desativar grade",✔️
                 "Acender/apagar luz",✔️
                 "Testar interior",✔️
@@ -210,28 +210,28 @@
             }
             "Botões para acessar aba dos comodoes e etc",✔️
             ["Mini hud"] = {
-                "Saldo da mão",
-                "Saldo do banco",
-                "Moeda especial",
+                "Saldo da mão",✔️
+                "Saldo do banco",✔️
+                "Moeda especial",✔️
             }
-            "Uma mini hud a onde mostra o saldo dele da mão, do banco e a moeda especial",
-            "Em cada textura/móveis, mostrar se é com dinheiro ou moeda especial que compra",
-            ["Quando salvar"] = {
+            "Uma mini hud a onde mostra o saldo dele da mão, do banco e a moeda especial",✔️
+            "Em cada textura/móveis, mostrar se é com dinheiro ou moeda especial que compra",✔️
+            ["Quando salvar"] = {✔️
                 ["Perguntar"] = {
-                    "Pagar com money da mão",
-                    "Pagar com money do banco",
+                    "Pagar com money da mão",✔️
+                    "Pagar com money do banco",✔️
                 },
             },
         },
         ["Quando clica no objeto"] = {
-            "Rotacionar",
-            "Mover pros lados",
-            "Mover para cima e para baixo",
-            "Deletar",
-            "Alinhar no chão",
+            "Rotacionar",✔️
+            "Mover pros lados",✔️
+            "Mover para cima e para baixo",✔️
+            "Deletar",✔️
+            "Alinhar no chão",✔️
             ["Sub menu de rotacionar"] = {
-                "Voltar",
-                "Mover",
+                "Voltar",✔️
+                "Mover",✔️
             },
         },
     },
